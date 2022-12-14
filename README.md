@@ -1,2 +1,1 @@
-# Cryptocurrency
-Lists of safety cryptocurrency projects
+![XR](https://raw.githubusercontent.com/SolidityShield/Cryptocurrency/main/SolidityShield.png) 
